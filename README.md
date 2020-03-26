@@ -10,7 +10,7 @@ Those who are looking for fitness can either be fitness experts, or those just w
 Roles----
 
 Rabah Babaci-Front End Developer:
-  -Responsible for design of site, as well as basic functionality.
+  -Responsible for implementing all the user interfaces of the website, as well as basic functionality.
   
 Gabriel Lopez-Back End Developer:
   -Responsible for under the hood operations, ex. state management and communicating with API.
